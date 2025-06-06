@@ -1,4 +1,4 @@
-# Baires Dev - Code Challenge #
+# Code Challenge #
 
 This repo contains all files for the code challenge for the opening 
 *"Talent - Talent Profiling & Assessment - Machine Learning Engineer."*
